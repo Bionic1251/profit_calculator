@@ -1,0 +1,7 @@
+Plugin-Version: 1.0.2
+Plugin-Type: tradable_app
+Plugin-ClassPath: ${classpath}
+Plugin-Vendor-Id: tween.oaks
+Plugin-SymbolicName: tween.oaks.profcalc
+Plugin-Name: Profit Calculator
+Plugin-Vendor: tween.oaks
